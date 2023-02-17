@@ -16,4 +16,5 @@ Learning git hub fundamentals
 **git commit -m "our custom message"--Now it will provide an connection betwen local folder and git hub
 **git remote add origin https://github.com/AEC-ECE/learninggithub.git (link is northing but your repository link)--It will establish a connection between local folder and particular repository through the link which we are provided.
 **git push origin master--It will push and upload all our codes which we are commited to remote repository.
-      Again if u are using for the first time it will ask your identity.     
+      Again if u are using for the first time it will ask your identity. 
+This is the process of commiting ,pushing.
