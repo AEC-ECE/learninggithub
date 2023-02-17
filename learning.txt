@@ -1,0 +1,19 @@
+Learning git hub fundamentals
+1.create a folder in our local pc then go to its address bar and select the wholw ter and press back bar now enter "cmd" to command promt.Now type a command "code ." then automatically it will direct u too vs code.
+2.In vs code create a folder with your own name .
+3.Now create a repositiory in git hub 
+4.Again go to cmd of your folder and stsring typing the required commands.
+**git init--it will intialize an hidden file but it does not have an onformation
+**git status--it will check wheather your files are tracked or not .At this step it does not track the files becz we doesnt add ,commited the files .
+**git add--to add the files, after this commad it doesnt show anything 
+**git status--Again check the status 
+                      if the files are tracked then it will appaer as in green in colour.it an indication to check wheather our files are tracked or not,
+**git commit -m "our custom message"--it will commit the files which we are uploaded.
+       if u are using the git for the first time it will ask your identity.
+       then the commands are:
+                        git config --global user.email "your mail id"
+                        git config --global user.name "your user name"
+**git commit -m "our custom message"--Now it will provide an connection betwen local folder and git hub
+**git remote add origin https://github.com/AEC-ECE/learninggithub.git (link is northing but your repository link)--It will establish a connection between local folder and particular repository through the link which we are provided.
+**git push origin master--It will push and upload all our codes which we are commited to remote repository.
+      Again if u are using for the first time it will ask your identity.     
